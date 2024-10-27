@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #000000;
+    color: #fff;
+    text-align: center;
+}
+.tree {
+    font-size: 16px;
+
+}
+.green {
+    color: green;
+}
+
+.red {
+    color: red;
+}
+
+.yellow-star {
+    color: yellow;
+    font-size: 24px;
+}
